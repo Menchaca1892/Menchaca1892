@@ -1,7 +1,5 @@
 Hi, I'm Menchaca 1892
-I am interested in studying backend programming
-I am currently studying at TecMilenio in software development engineering and studying self-directedly.
-I am very interested and willing to give my time for my interests.
+
 How to contact me:
 menchaca1798@gmail.com
 
